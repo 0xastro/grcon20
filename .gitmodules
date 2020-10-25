@@ -1,0 +1,6 @@
+[submodule "PhasedArrayBeamforming/grcon2020-workshop"]
+	path = PhasedArrayBeamforming/grcon2020-workshop
+	url = https://github.com/daniestevez/grcon2020-workshop.git
+[submodule "GnurRadioBlocks/writing_GNURadio_blocks_python"]
+	path = GnurRadioBlocks/writing_GNURadio_blocks_python
+	url = https://github.com/TheWylieStCoyote/writing_GNURadio_blocks_python.git
