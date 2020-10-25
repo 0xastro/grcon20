@@ -4,3 +4,6 @@
 [submodule "GnurRadioBlocks/writing_GNURadio_blocks_python"]
 	path = GnurRadioBlocks/writing_GNURadio_blocks_python
 	url = https://github.com/TheWylieStCoyote/writing_GNURadio_blocks_python.git
+[submodule "GnurRadioPython/gnuradio_projects"]
+	path = GnurRadioPython/gnuradio_projects
+	url = https://github.com/mthoren-adi/gnuradio_projects.git
