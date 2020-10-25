@@ -10,3 +10,6 @@
 [submodule "PhasedArrayBeamforming/phasedarray"]
 	path = PhasedArrayBeamforming/phasedarray
 	url = https://github.com/jonkraft/phasedarray
+[submodule "Decoding_InterplanetarySpacecraft/grcon2020-workshop"]
+	path = Decoding_InterplanetarySpacecraft/grcon2020-workshop
+	url = https://github.com/daniestevez/grcon2020-workshop.git
