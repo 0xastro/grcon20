@@ -7,3 +7,6 @@
 [submodule "GnurRadioPython/gnuradio_projects"]
 	path = GnurRadioPython/gnuradio_projects
 	url = https://github.com/mthoren-adi/gnuradio_projects.git
+[submodule "PhasedArrayBeamforming/phasedarray"]
+	path = PhasedArrayBeamforming/phasedarray
+	url = https://github.com/jonkraft/phasedarray
